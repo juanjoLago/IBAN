@@ -15,3 +15,11 @@ C:\Users\juanjo\Desktop\ejerciciopila\pruebas\bin\Debug\nunit.framework.xml
 C:\Users\juanjo\Desktop\ejerciciopila\pruebas\obj\Debug\pruebas.csprojResolveAssemblyReference.cache
 C:\Users\juanjo\Desktop\ejerciciopila\pruebas\obj\Debug\pruebas.dll
 C:\Users\juanjo\Desktop\ejerciciopila\pruebas\obj\Debug\pruebas.pdb
+E:\git\IBAN\pruebas\obj\Debug\pruebas.csprojResolveAssemblyReference.cache
+E:\git\IBAN\pruebas\obj\Debug\pruebas.dll
+E:\git\IBAN\pruebas\bin\Debug\pruebas.dll
+E:\git\IBAN\pruebas\bin\Debug\pruebas.pdb
+E:\git\IBAN\pruebas\bin\Debug\ejerciciopila.dll
+E:\git\IBAN\pruebas\bin\Debug\ejerciciopila.pdb
+E:\git\IBAN\pruebas\bin\Debug\nunit.framework.xml
+E:\git\IBAN\pruebas\obj\Debug\pruebas.pdb

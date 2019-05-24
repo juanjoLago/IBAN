@@ -8,3 +8,8 @@ C:\Users\juanjo\Desktop\ejerciciopila\ejerciciopila\bin\Debug\ejerciciopila.pdb
 C:\Users\juanjo\Desktop\ejerciciopila\ejerciciopila\obj\Debug\ejerciciopila.csprojResolveAssemblyReference.cache
 C:\Users\juanjo\Desktop\ejerciciopila\ejerciciopila\obj\Debug\ejerciciopila.dll
 C:\Users\juanjo\Desktop\ejerciciopila\ejerciciopila\obj\Debug\ejerciciopila.pdb
+E:\git\IBAN\ejerciciopila\bin\Debug\ejerciciopila.dll
+E:\git\IBAN\ejerciciopila\bin\Debug\ejerciciopila.pdb
+E:\git\IBAN\ejerciciopila\obj\Debug\ejerciciopila.csprojResolveAssemblyReference.cache
+E:\git\IBAN\ejerciciopila\obj\Debug\ejerciciopila.dll
+E:\git\IBAN\ejerciciopila\obj\Debug\ejerciciopila.pdb

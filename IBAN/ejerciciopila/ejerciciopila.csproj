@@ -7,7 +7,7 @@
     <ProjectGuid>{AFFDD1DE-FC07-427D-AC06-6BB3FF23CDE4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ejerciciopila</RootNamespace>
+    <RootNamespace>ejercicioIban</RootNamespace>
     <AssemblyName>ejerciciopila</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -39,7 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="pila.cs" />
+    <Compile Include="iban.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
