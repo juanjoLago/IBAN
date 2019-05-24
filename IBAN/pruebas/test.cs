@@ -27,8 +27,21 @@ namespace pruebas
             iban prueba = new iban();
             Assert.AreEqual(prueba.EsIBANvalido(pruebaiban), true);
         }
-        
-        
+
+        [TestCase]
+        public void ibanNoValido()
+        {
+
+            iban prueba = new iban();
+            Assert.AreEqual(prueba.EsIBANvalido("ES32524524"), false);
+        }
+        [TestCase]
+        public void overflow()
+        {
+
+            iban prueba = new iban();
+            Assert.AreEqual(prueba.EsIBANvalido(""), false);
+        }
 
     }
 }

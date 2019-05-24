@@ -10,7 +10,16 @@ namespace ejercicioIban
     {
         public bool EsIBANvalido(string IBAN)
         {
-            return IBAN == calcularIban(IBAN.Substring(4));
+            try
+            {
+                return IBAN == calcularIban(IBAN.Substring(4));
+            }
+            catch (OverflowException)
+            {
+
+                return false;
+            }
+
         }
 
         private string calcularIban(string ccc)
