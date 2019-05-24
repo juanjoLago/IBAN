@@ -1,0 +1,17 @@
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\pruebas\bin\Debug\pruebas.dll
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\pruebas\bin\Debug\pruebas.pdb
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\pruebas\bin\Debug\ejerciciopila.dll
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\pruebas\bin\Debug\nunit.framework.dll
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\pruebas\bin\Debug\ejerciciopila.pdb
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\pruebas\bin\Debug\nunit.framework.xml
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\pruebas\obj\Debug\pruebas.csprojResolveAssemblyReference.cache
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\pruebas\obj\Debug\pruebas.dll
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\pruebas\obj\Debug\pruebas.pdb
+C:\Users\juanjo\Desktop\ejerciciopila\pruebas\bin\Debug\pruebas.dll
+C:\Users\juanjo\Desktop\ejerciciopila\pruebas\bin\Debug\pruebas.pdb
+C:\Users\juanjo\Desktop\ejerciciopila\pruebas\bin\Debug\ejerciciopila.dll
+C:\Users\juanjo\Desktop\ejerciciopila\pruebas\bin\Debug\ejerciciopila.pdb
+C:\Users\juanjo\Desktop\ejerciciopila\pruebas\bin\Debug\nunit.framework.xml
+C:\Users\juanjo\Desktop\ejerciciopila\pruebas\obj\Debug\pruebas.csprojResolveAssemblyReference.cache
+C:\Users\juanjo\Desktop\ejerciciopila\pruebas\obj\Debug\pruebas.dll
+C:\Users\juanjo\Desktop\ejerciciopila\pruebas\obj\Debug\pruebas.pdb

@@ -1,0 +1,10 @@
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\ejerciciopila\obj\Debug\ejerciciopila.csprojResolveAssemblyReference.cache
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\ejerciciopila\bin\Debug\ejerciciopila.dll
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\ejerciciopila\bin\Debug\ejerciciopila.pdb
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\ejerciciopila\obj\Debug\ejerciciopila.dll
+D:\alumno1718\Desktop\relacion de ejercicios tema 8\ejerciciopila\ejerciciopila\obj\Debug\ejerciciopila.pdb
+C:\Users\juanjo\Desktop\ejerciciopila\ejerciciopila\bin\Debug\ejerciciopila.dll
+C:\Users\juanjo\Desktop\ejerciciopila\ejerciciopila\bin\Debug\ejerciciopila.pdb
+C:\Users\juanjo\Desktop\ejerciciopila\ejerciciopila\obj\Debug\ejerciciopila.csprojResolveAssemblyReference.cache
+C:\Users\juanjo\Desktop\ejerciciopila\ejerciciopila\obj\Debug\ejerciciopila.dll
+C:\Users\juanjo\Desktop\ejerciciopila\ejerciciopila\obj\Debug\ejerciciopila.pdb

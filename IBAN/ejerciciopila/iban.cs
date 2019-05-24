@@ -1,8 +1,12 @@
-using System;
-using TestIban;
-namespace dllISBN
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ejercicioIban
 {
-    public class IBAN
+    public class iban
     {
         public bool EsIBANvalido(string IBAN)
         {
@@ -18,9 +22,27 @@ namespace dllISBN
                 return "La CCC debe tener 20 dígitos";
             }
             // Le añadimos el codigo del pais al ccc
-            numeroCalcular = numeroCalcular + "142800";
+            numeroCalcular = añadir_codigo_pais(numeroCalcular);
 
             // Troceamos el ccc en partes (26 digitos)
+            string resultado = trocear(numeroCalcular);
+            // Le restamos el resultado a 98
+            return restar(ccc, resultado);
+            
+        }
+
+        private static string restar(string ccc, string resultado)
+        {
+            int miRestoIban = 98 - int.Parse(resultado);
+            string restoIban = miRestoIban.ToString();
+            if (restoIban.Length == 1)
+                restoIban = "0" + restoIban;
+
+            return "ES" + restoIban + ccc;
+        }
+
+        private static string trocear(string numeroCalcular)
+        {
             string[] partesCCC = new string[5];
             partesCCC[0] = numeroCalcular.Substring(0, 5);
             partesCCC[1] = numeroCalcular.Substring(5, 5);
@@ -35,13 +57,14 @@ namespace dllISBN
                 miResultado = int.Parse(resultado + partesCCC[i + 1]) % 97;
                 resultado = miResultado.ToString();
             }
-            // Le restamos el resultado a 98
-            int miRestoIban = 98 - int.Parse(resultado);
-            string restoIban = miRestoIban.ToString();
-            if (restoIban.Length == 1)
-                restoIban = "0" + restoIban;
-
-            return "ES" + restoIban + ccc;
+            return resultado;
         }
+
+        private static string añadir_codigo_pais(string numeroCalcular)
+        {
+            numeroCalcular = numeroCalcular + "142800";
+            return numeroCalcular;
+        }
+
     }
 }
