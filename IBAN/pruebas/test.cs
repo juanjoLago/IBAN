@@ -17,6 +17,14 @@ namespace pruebas
         {
 
            iban prueba = new iban();
+           Assert.AreNotEqual(prueba.EsIBANvalido("ES425244"), "La CCC debe tener 20 dígitos");
+        }
+
+        [TestCase]
+        public void ibanValido()
+        {
+
+            iban prueba = new iban();
             Assert.AreEqual(prueba.EsIBANvalido(pruebaiban), true);
         }
         
